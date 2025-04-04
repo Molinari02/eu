@@ -2,5 +2,9 @@
     width: 200px;
     height: auto;
     border-radius: 15px;
+    align-items: center;
+} 
 
+.texto { 
+    align-items: center;
 } 
